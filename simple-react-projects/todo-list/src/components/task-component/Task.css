@@ -1,0 +1,8 @@
+.finished{
+    text-decoration: line-through;
+}
+
+.task {
+    /* display: flex; */
+    order: 2;
+}

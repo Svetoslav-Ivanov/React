@@ -1,0 +1,36 @@
+.paper-page {
+    background-color: rgb(241, 248, 60);
+    width: fit-content;
+    padding: 10px;
+    margin: 40px;
+    height: fit-content; 
+   border: 1px solid lightgray;
+    box-shadow: 5px 5px 10px darkgrey;
+}
+
+.checkbox {
+    margin-right: 20px;
+    float: right;
+}
+
+.task {
+    font-size: 17px;
+    text-align: flex;
+}
+
+.tasks-list {
+    list-style: none;
+    padding-left: 20px;
+}
+
+.new-task-input {
+    margin: 0px 5px;
+    box-sizing: border-box;
+}
+
+.new-task-submit-button {
+    border-radius: 10px;
+    padding: 3px 6px;
+    background-color: aqua;
+    font-weight: bold;
+}
