@@ -6,7 +6,7 @@ It contains usage of the following:\
     - React hooks\
     - Lifting the state up\
     - Material UI library for buttons\
-    - CSS modules\
+    - CSS modules
 
 ## Available Scripts
 
