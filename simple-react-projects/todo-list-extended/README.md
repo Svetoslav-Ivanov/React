@@ -1,11 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-It contains usage of the following:
-    - React DOM Router
-    - React hooks
-    - Lifting the state up
-    - Material UI library for buttons
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+It contains usage of the following:\
+    - React DOM Router\
+    - React hooks\
+    - Lifting the state up\
+    - Material UI library for buttons\
+    - CSS modules\
 
 ## Available Scripts
 
